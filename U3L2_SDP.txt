@@ -1,0 +1,3 @@
+1. it gives you a recursion error 
+
+2. because it has a recursion limit and is more work for the computer
